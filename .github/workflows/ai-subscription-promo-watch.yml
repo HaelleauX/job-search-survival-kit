@@ -1,0 +1,44 @@
+name: Watch AI subscription promotions
+
+on:
+  schedule:
+    - cron: '37 13 * * *' # Daily, 13:37 UTC; delays possible on GitHub-hosted scheduling
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  review-official-promotions:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check public official offers and terms
+        run: python automation/watch_ai_promos.py
+      - name: Propose findings for human verification
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: |
+            automation/ai-promo-state.json
+            promos/inbox/*.md
+          commit-message: 'chore(promos): queue potential AI subscription offer changes'
+          branch: automation/ai-promo-watch
+          delete-branch: true
+          title: 'AI promo watch: verify official offer changes'
+          body: |
+            **Review only. Not proof of an active deal.**
+
+            - Confirm the offer on an official publisher or partner page and date-stamp it.
+            - Check eligibility, offer limits, region, billing platform, checkout price,
+              cashback timing, automatic renewal and how to cancel.
+            - Mark expired or targeted offers clearly and never publish codes from
+              unknown resellers or private user accounts.
+            - The watcher cannot access personalized, login-only promotional offers.
+
+            **Keep this pull request unmerged until a human reviews it.**
