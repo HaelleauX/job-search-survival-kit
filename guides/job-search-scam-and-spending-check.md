@@ -27,6 +27,26 @@ There are at least three distinct situations:
 
 Not every paid career service is a scam, and not every recruiter offering one has bad intentions. **The problem is when the boundaries between recruitment and selling become unclear, especially for people under financial pressure.**
 
+### The recruiter-to-resume-service pivot: an anonymized example
+
+A job seeker described this sequence: a professional approached them as a recruiter, asked for a resume, salary range, start availability and work preferences, and said the resume had entered a screening process. **No specific employer, job opening, or requisition number was identified.** Later, the contact said the resume would probably be rejected and introduced a resume-writing specialist. After the job seeker declined, they offered free resume and LinkedIn optimization.
+
+**What this does and doesn't prove:**
+
+- Gathering qualifications and asking about compensation can be normal recruiting work.
+- A generic warning that your resume will be rejected, without naming a role or showing job-specific criteria, is **not a substantiated hiring assessment**.
+- Moving from an apparently active recruiting discussion to resume services can be a **sales or lead-generation pivot**, whether the first offer is paid or free.
+- A profile headline or job title that changes later is **not proof** the earlier outreach was fraudulent. People change roles.
+- This example **does not establish impersonation, a scam, or wrongdoing**. The opportunity and any claimed employer relationship simply remained unverified.
+
+**The useful question to ask before investing more time:**
+
+> Before we discuss resume services, which specific company and role are you considering me for? Is there an active requisition, and are you authorized to recruit or submit candidates for it? I am interested in genuine openings. Please also clarify whether any resume or LinkedIn service is entirely separate from the recruiting process.
+
+If you receive no specific, independently verifiable hiring opportunity, treat the exchange as **unverified networking or a possible services pitch**, not proof that an employer has reviewed or rejected your candidacy.
+
+---
+
 ## 2. Copy this message before you pay or provide documents
 
 > Thanks for reaching out. Before proceeding, could you confirm the employer, exact role or requisition number, and your recruiting relationship with the company? I'd also like to confirm whether the service you've mentioned is entirely optional and whether purchasing it has any bearing on interview consideration. I prefer to verify opportunities through the employer's official channels.
