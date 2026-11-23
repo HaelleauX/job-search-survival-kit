@@ -1,0 +1,38 @@
+name: Watch hiring-market reports
+
+on:
+  schedule:
+    - cron: '13 12 * * 1' # Mondays at 12:13 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  review-new-reports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check official report indexes
+        run: python automation/watch_sources.py
+      - name: Open a review pull request for new links or initial baseline
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: |
+            automation/seen-links.json
+            evidence/inbox/*.md
+          commit-message: 'chore(research): queue newly linked hiring reports for review'
+          branch: 'automation/report-watch'
+          delete-branch: true
+          title: 'Research watch: verify newly linked reports'
+          body: |
+            Automated source-link discovery only. **DO NOT treat these as verified stats.**
+
+            Review each new official publication for date, methodology, sample,
+            geography, denominator, conflicts and limitations before changing
+            public evidence summaries. The first run initializes a baseline.
