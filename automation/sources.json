@@ -1,0 +1,7 @@
+[
+  {"id":"greenhouse","name":"Greenhouse recruiting benchmarks","url":"https://www.greenhouse.com/recruiting-benchmarks","domains":["greenhouse.com"],"terms":["hire standard","benchmark","hiring trends","recruiting","report"]},
+  {"id":"ashby","name":"Ashby Talent Trends","url":"https://www.ashbyhq.com/talent-trends-report","domains":["ashbyhq.com"],"terms":["talent trends","recruit","benchmark","report","application","interview"]},
+  {"id":"indeed-hiring-lab","name":"Indeed Hiring Lab","url":"https://hiringlab.indeed.com/","domains":["hiringlab.indeed.com"],"terms":["labor market","job postings","hiring","snapshot","report","workforce"]},
+  {"id":"linkedin-workforce","name":"LinkedIn Workforce Reports","url":"https://pulse.linkedin.com/research-and-trends/workforce-reports/","domains":["pulse.linkedin.com"],"terms":["workforce report","hiring","labor market","workforce","report"]},
+  {"id":"bls-jolts","name":"U.S. Bureau of Labor Statistics JOLTS","url":"https://www.bls.gov/jlt/","domains":["bls.gov"],"terms":["jolts","job openings","turnover","news release","report"]}
+]
