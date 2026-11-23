@@ -25,6 +25,7 @@ You can use every guide separately, but you do not need to work through everythi
 | Find AI subscription deals without getting burned | [AI subscription savings + deal watch](promos/ai-subscription-savings.md) |
 | Understand reported hiring-funnel conversion rates | [Hiring market numbers](evidence/hiring-market-numbers.md) |
 | Track my applications without obsessing | [Simple job-search tracker](templates/job-search-tracker.md) |
+| Check suspicious recruiters, pay-to-interview pitches, and job-search spending | [Scam & Spending Check](guides/job-search-scam-and-spending-check.md) |
 
 ## Three-minute instructions
 
