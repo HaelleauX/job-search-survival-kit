@@ -47,6 +47,31 @@ If you receive no specific, independently verifiable hiring opportunity, treat t
 
 ---
 
+### The real-company-name, unverified-recruiter email: an anonymized example
+
+A job seeker was contacted about a supposed **remote Customer Success Manager** role with a Canadian company. The sender claimed the resume had already been reviewed and directed the candidate toward an online interview. The messages included:
+
+- **Conflicting geography:** One message placed the remote role in Canada, while another described it as based in the candidate's Texas city.
+- **Job-title mismatch:** The advertised Customer Success Manager role was described as an interview about office management and administrative duties.
+- **Unverified sender identity:** The purported company representative used a personal Gmail address instead of a recruiting address independently verified with the company.
+- **Bulk-message signals:** One follow-up addressed "Hello Applicant" and used undisclosed recipients while implying individualized resume review.
+- **Pressure and channel switching:** The messages pushed the candidate to set up or use Microsoft Teams, contact the sender's Gmail account, enter an interview verification code, and complete the process quickly.
+
+The candidate had **already provided a resume** before spotting the inconsistencies, then blocked further outreach.
+
+**What this proves:** The communication contained multiple substantial warning signs, and the claimed recruiting relationship was not independently verified. It does **not** establish that the named company was fraudulent or that every Microsoft Teams interview is suspicious.
+
+**What to do if this happens to you:**
+
+1. Don't use the link or code in the unexpected message just to find out whether it's real.
+2. Independently locate the company's official website and contact information, then ask whether the role and purported recruiter are genuine.
+3. If you already sent a resume, don't panic. Review what personal data it contains, monitor for follow-up impersonation, and be especially cautious of requests for identification, banking details, or account verification codes.
+4. Block or report the sender if verification fails or the behavior is concerning. Save copies of relevant messages before deleting them if you may need to report suspected fraud.
+
+**The pattern:** A credible company name + a plausible job title + a familiar interview platform can still be part of an unverified recruiting approach. **Verify the sender's authority, not merely the company's existence.**
+
+---
+
 ## 2. Copy this message before you pay or provide documents
 
 > Thanks for reaching out. Before proceeding, could you confirm the employer, exact role or requisition number, and your recruiting relationship with the company? I'd also like to confirm whether the service you've mentioned is entirely optional and whether purchasing it has any bearing on interview consideration. I prefer to verify opportunities through the employer's official channels.
