@@ -1,6 +1,6 @@
 # Check your fit without a fake score
 
-**You need:** the job description and your real resume/career notes. **You get:** evidence-backed strengths, missing requirements, and a practical decision. A made-up 92% ATS score is not useful.
+**You need:** a job description and your real experience, ideally drawn from a [private master career record](../guides/master-resume-source-of-truth.md) (an ordinary resume or rough notes also work). **You get:** evidence-backed strengths, missing requirements, and a practical Apply / Investigate / Skip decision. A made-up 92% ATS score is not useful.
 
 ## Copy this prompt
 
@@ -10,8 +10,8 @@ Evaluate whether I should apply for this role. You have no access to the employe
 JOB POSTING:
 [PASTE]
 
-MY EXPERIENCE / RESUME:
-[PASTE; REDACT PRIVATE CONTACT INFORMATION IF YOU WISH]
+MY BASELINE RESUME / RELEVANT MASTER CAREER RECORD:
+[PASTE REAL EXPERIENCE; REMOVE PRIVATE CONTACT DETAILS AND CONFIDENTIAL INFORMATION]
 
 Classify each top requirement as:
 - EVIDENCED: clear proof from my background (quote the proof)
