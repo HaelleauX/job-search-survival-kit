@@ -4,6 +4,10 @@
 
 You do **not** need to know Git, write code, or pay for LinkedIn Premium. You can use these files in your browser.
 
+## Stop rebuilding your resume for every application
+
+**[Build your master resume once](guides/master-resume-source-of-truth.md).** Create one private, evidence-based career record and a strong baseline resume, then reuse them to decide which jobs are worth applying for and make small, honest adjustments for each. [Copy the free fill-in template](templates/master-career-record.md). **Optional:** if you need to apply today, use the quickstart below first.
+
 ## Start in 5 minutes: one job, one action plan
 
 **[OPEN THE ONE-JOB QUICKSTART →](START_HERE.md)**. It uses a single copy-and-paste prompt to decode the role, assess your evidence, suggest honest resume edits, plan outreach, and prepare for interview questions. [See a fictional worked example](examples/FICTIONAL-EXAMPLE.md).
@@ -14,6 +18,7 @@ You can use every guide separately, but you do not need to work through everythi
 
 | I need to... | Open this |
 | --- | --- |
+| Stop rewriting resumes from scratch | [Build my master resume + verified accomplishments](guides/master-resume-source-of-truth.md) |
 | Understand what a job actually asks for | [Decode the job](prompts/01-decode-the-job.md) |
 | Decide whether I'm a plausible candidate | [Reality-check my fit](prompts/02-fit-and-gaps.md) |
 | Improve a resume without making things up | [Adapt my resume](prompts/03-resume-positioning.md) |
