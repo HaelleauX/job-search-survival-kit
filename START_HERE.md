@@ -12,6 +12,8 @@ You need:
 2. Your current resume **or** a rough list of jobs, responsibilities, and results. Bullet points are fine.
 3. Any non-negotiables, such as pay, location, schedule, or travel. Sharing these is optional.
 
+**Already built your master career record?** Paste the relevant parts of that private record into the experience field below instead of reconstructing your work history. If you haven't, don't delay today's application: this quickstart works with rough notes too. When you have time, [build your master resume once](guides/master-resume-source-of-truth.md).
+
 **Privacy check:** Remove your home address, phone number, personal email, ID numbers, references' contact information, confidential client data, and anything else you would not want to share with your chosen AI service. Do not paste protected health information. Your inputs are not collected by this GitHub repository, but an external AI assistant has its own data policies.
 
 ## 1. Copy this entire prompt
