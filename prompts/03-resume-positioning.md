@@ -1,6 +1,6 @@
 # Improve your resume, not your fiction
 
-**You need:** an existing resume and target job description. **You get:** a credible revised summary and bullets you can copy into your preferred document editor.
+**You need:** a baseline resume (or any current resume) and target job description. **You get:** small, credible changes you can copy into your preferred document editor. If you haven't already, [build your master career record](../guides/master-resume-source-of-truth.md) once so you can reuse verified evidence instead of starting over.
 
 ## Copy this prompt
 
@@ -13,8 +13,8 @@ JOB POSTING:
 RESUME:
 [PASTE]
 
-ADDITIONAL VERIFIED ACHIEVEMENTS (OPTIONAL):
-[PASTE]
+MASTER CAREER RECORD / VERIFIED ACCOMPLISHMENTS (OPTIONAL):
+[PASTE RELEVANT EXCERPTS FROM YOUR PRIVATE MASTER RECORD, WITHOUT PERSONAL CONTACT OR CONFIDENTIAL DATA]
 
 RULES:
 - Never invent jobs, titles, dates, software, degrees, certifications, metrics or results.
@@ -31,5 +31,5 @@ RETURN:
 4. Missing evidence/questions I should resolve before using the output.
 5. A short recruiter skim test: what will they understand within 10 seconds?
 
-Don't rewrite parts of the resume that aren't relevant. Never claim a guaranteed ATS pass.
+Start from the existing baseline; don't rewrite parts that aren't relevant. Never claim a guaranteed ATS pass.
 ```
